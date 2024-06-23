@@ -1,7 +1,3 @@
-Sure, here's a concise and professional README for your "Eritrea Today" project:
-
----
-
 # Eritrea Today
 
 Eritrea Today is a single-page application (SPA) built with React, designed to deliver up-to-date news and information about Eritrea. The project serves as a learning tool for developing SPAs using React, React Router, and CSS Modules.
