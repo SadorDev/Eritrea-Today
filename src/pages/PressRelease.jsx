@@ -1,6 +1,8 @@
+import AppLayout from "./AppLayout"
+
 const PressRelease = () => {
   return (
-    <div>PressRelease</div>
+    <AppLayout />
   )
 }
 

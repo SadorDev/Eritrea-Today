@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Navbar background */
+.nav {
+  padding: 1rem;
+  border: 1px black solid;
+}
+
+/* Navbar links */
+.navLinks {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  list-style: none;
+}
+
+.navLinks li {
+  margin: 0 10px;
+}
+
+.navLinks a {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px; 
+  text-decoration: none;
+  color: black;
+}
+
+.navLink:hover {
+  color: #d4af37;
+}
+
+@media (max-width: 768px) {
+  .headerContainer {
+    padding: 1.5rem; /* Adjust padding for smaller screens */
+  }
+
+  .nav {
+    padding: 0.5rem 0; /* Adjust padding for smaller screens */
+  }
+
+  .navLinks {
+    flex-direction: column; /* Stack nav links vertically on smaller screens */
+    align-items: center; /* Center align nav links on smaller screens */
+  }
+
+  .navLinks li {
+    margin: 10px 0; /* Adjust margin for smaller screens */
+  }
+}
+

@@ -1,6 +1,9 @@
+import AppLayout from './AppLayout.jsx';
+
+
 const Magazines = () => {
   return (
-    <div>Magazines</div>
+    <AppLayout />
   )
 }
 

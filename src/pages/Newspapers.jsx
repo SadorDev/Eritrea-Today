@@ -1,6 +1,8 @@
+import AppLayout from './AppLayout'
+
 const Newspapers = () => {
   return (
-    <div>Newspapers</div>
+    <AppLayout />
   )
 }
 

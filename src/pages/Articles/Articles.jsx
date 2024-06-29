@@ -1,7 +1,7 @@
 import AppLayout from "../AppLayout";
 
-const More = () => {
+const Articles = () => {
   return <AppLayout />;
 };
 
-export default More;
+export default Articles;

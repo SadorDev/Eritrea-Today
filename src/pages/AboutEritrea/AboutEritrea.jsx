@@ -1,6 +1,8 @@
+import AppLayout from "../AppLayout"
+
 const About = () => {
   return (
-    <div>About</div>
+    <AppLayout />
   )
 }
 
