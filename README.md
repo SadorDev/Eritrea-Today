@@ -14,7 +14,7 @@ Eritrea Today is a single-page application (SPA) built with React, designed to d
 ## Introduction
 
 Eritrea Today aims to provide a seamless user experience while navigating through news articles and updates about Eritrea. This project is focused on enhancing skills in building dynamic web applications using modern JavaScript frameworks and libraries.
-
+ff
 ## Features
 
 - **Single Page Application:** Smooth navigation without full-page reloads.
