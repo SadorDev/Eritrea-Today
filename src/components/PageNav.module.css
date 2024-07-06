@@ -5,7 +5,6 @@
 /* Navbar background */
 .nav {
   padding: 1rem;
-  border: 1px black solid;
 }
 
 /* Navbar links */
@@ -14,39 +13,73 @@
   justify-content: center;
   padding: 0;
   list-style: none;
+  position: relative;
 }
 
 .navLinks li {
+  position: relative;
   margin: 0 10px;
+}
+
+/* Dropdown menu */
+.dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: white;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.dropdown li {
+  margin: 0;
+  padding: 0;
+}
+
+.dropdown li a {
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: black;
+}
+
+.dropdown li a:hover {
+  background-color: #f1f1f1;
+}
+
+/* Show dropdown menu on hover */
+.navItem:hover .dropdown {
+  display: block;
 }
 
 .navLinks a {
   font-family: "Roboto", sans-serif;
-  font-size: 16px; 
+  font-size: 16px;
   text-decoration: none;
   color: black;
+  position: relative;
+}
+
+/* Underline hover effect */
+.navLinks a::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #d4af37;
+  transition: width .3s;
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+}
+
+.navLinks a:hover::after {
+  width: 100%;
 }
 
 .navLink:hover {
   color: #d4af37;
 }
-
-@media (max-width: 768px) {
-  .headerContainer {
-    padding: 1.5rem; /* Adjust padding for smaller screens */
-  }
-
-  .nav {
-    padding: 0.5rem 0; /* Adjust padding for smaller screens */
-  }
-
-  .navLinks {
-    flex-direction: column; /* Stack nav links vertically on smaller screens */
-    align-items: center; /* Center align nav links on smaller screens */
-  }
-
-  .navLinks li {
-    margin: 10px 0; /* Adjust margin for smaller screens */
-  }
-}
-
