@@ -1,6 +1,8 @@
+import AppLayout from "../../AppLayout"
+
 const TodayInHistory = () => {
   return (
-    <div>TodayInHistory</div>
+    <AppLayout />
   )
 }
 

@@ -1,6 +1,9 @@
+import AppLayout from "../../AppLayout"
+
 const Proverbs = () => {
   return (
-    <div>Proverbs</div>
+
+    <AppLayout />
   )
 }
 

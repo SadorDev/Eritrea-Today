@@ -1,6 +1,10 @@
+import AppLayout from "../../AppLayout.jsx"
+
 const ArtsandSports = () => {
   return (
-    <div>ArtsandSports</div>
+    <AppLayout />
+
+
   )
 }
 

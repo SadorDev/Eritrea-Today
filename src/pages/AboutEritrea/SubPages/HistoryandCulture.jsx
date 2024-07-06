@@ -1,6 +1,8 @@
+import AppLayout from "../../AppLayout"
+
 const HistoryandCulture = () => {
   return (
-    <div>HistoryandCulture</div>
+    <AppLayout />
   )
 }
 

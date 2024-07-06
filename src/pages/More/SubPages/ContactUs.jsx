@@ -1,7 +1,7 @@
-const ContactUs = () => {
-  return (
-    <div>ContactUs</div>
-  )
-}
+import AppLayout from "../../AppLayout";
 
-export default ContactUs
+const ContactUs = () => {
+  return <AppLayout />;
+};
+
+export default ContactUs;

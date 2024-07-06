@@ -1,6 +1,8 @@
+import AppLayout from "../../AppLayout"
+
 const Erina = () => {
   return (
-    <div>Erina</div>
+    <AppLayout />
   )
 }
 

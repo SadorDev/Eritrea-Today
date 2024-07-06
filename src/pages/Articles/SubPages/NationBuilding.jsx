@@ -1,6 +1,8 @@
+import AppLayout from "../../AppLayout"
+
 const NationBuilding = () => {
   return (
-    <div>NationBuilding</div>
+    <AppLayout />
   )
 }
 

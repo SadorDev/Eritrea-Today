@@ -1,6 +1,8 @@
+import AppLayout from "../../AppLayout"
+
 const General = () => {
   return (
-    <div>General</div>
+  <AppLayout />
   )
 }
 
