@@ -19,7 +19,6 @@ import Proverbs from "./pages/AboutEritrea/SubPages/Proverbs";
 import TodayInHistory from "./pages/AboutEritrea/SubPages/TodayInHistory";
 
 
-import More from "./pages/More/More";
 import ContactUs from "./pages/More/SubPages/ContactUs"
 
 import AppLayout from "./pages/AppLayout";
@@ -28,7 +27,7 @@ const App = () => {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Homepage />} />
+        <Route index element={<Homepage />} />
 
         <Route path="articles" element={<Articles />} />
         <Route path="articles/artsandsports" element={<ArtsandSports />} />
@@ -47,7 +46,6 @@ const App = () => {
         <Route path="newspapers" element={<Newspapers />} />
         <Route path="magazines" element={<Magazines />} />
 
-        <Route path="more" element={<More />} />
         <Route path="more/contactus" element={<ContactUs />} />
 
         <Route path="app" element={<AppLayout />} />
