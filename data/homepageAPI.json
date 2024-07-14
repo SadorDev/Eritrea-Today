@@ -1,0 +1,226 @@
+{
+  "topStories": [
+    {
+      "id": 1,
+      "title": "President Hassan Sheikh Mohamud Arrives in Asmara",
+      "summary": "President Hassan Sheikh Mohamud arrived in Asmara for a two-day official visit.",
+      "image": "https://shabait.com/wp-content/uploads/2024/07/GR9QwSlWMAAMM2W-1.jpg",
+      "link": "/topStories/1",
+      "date": "2024-07-08"
+    },
+    {
+      "id": 2,
+      "title": "Biniam Girmay Takes the Green Jersey",
+      "summary": "In a historic achievement, Eritrean professional cyclist Biniam Girmay, a member of the Intermarché-Wanty team, claimed the green jersey in the fifth stage of the Tour de France.",
+      "image": "https://shabait.com/wp-content/uploads/2024/07/GRk4ZDDbMAMBimK-scaled.jpg",
+      "link": "/topStories/2",
+      "date": "2024-07-09"
+    },
+    {
+      "id": 3,
+      "title": "Cars and Motor Bicycles Race in Asmara",
+      "summary": "The National Cars and Motor Bicycles Federation organized a race today in the Biet-Gergis area of Asmara. The event was attended by Mr. Abraha Asfaha, Minister of Public Works, and Ambassador Zemede Tekle, Commissioner of Culture and Sports, as well as numerous spectators from Asmara.",
+      "image": "https://shabait.com/wp-content/uploads/2024/07/shabait98607549678.jpg",
+      "link": "/topStories/3",
+      "date": "2024-07-10"
+    },
+    {
+      "id": 4,
+      "title": "President Isaias Afwerki Meets with Senior Italian Parliament Delegation",
+      "summary": "President Isaias Afwerki today met and held talks at Adi-Halo with an Italian Parliamentary delegation led by the President of the Senate Foreign Affairs and Defense Commission, Senator Stefania Craxi.",
+      "image": "https://shabait.com/wp-content/uploads/2024/06/GRFGeybXEAA6LMb.jpg",
+      "link": "/topStories/4",
+      "date": "2024-07-11"
+    },
+    {
+      "id": 5,
+      "title": "Independence Day Anniversary Celebrations",
+      "summary": "The 33rd Independence Day anniversary was enthusiastically celebrated in the Southern, Gash Barka Regions and in Sawa National Service Training Center under the theme “Peace Anchored on Resilience.”",
+      "image": "https://shabait.com/wp-content/uploads/2024/05/shabait90473985673.jpg",
+      "link": "/topStories/5",
+      "date": "2024-05-24"
+    },
+    {
+      "id": 6,
+      "title": "President Isaias Afwerki’s Remarks at the Africa Climate Summit",
+      "summary": "On the invitation of President William Ruto, President Isaias Afwerki departed to Kenya in the early morning hours today to participate at the Inaugural Africa Climate Summit which will take place in Nairobi from 4 to 6 September.",
+      "image": "https://shabait.com/wp-content/uploads/2023/09/IMG-20230905-WA0009.jpg",
+      "link": "/topStories/6",
+      "date": "2023-09-04"
+    },
+
+    {
+      "id": 7,
+      "title": "Eritrea Signs New Trade Agreement with Ethiopia",
+      "summary": "Eritrea and Ethiopia have signed a new trade agreement aimed at boosting economic cooperation and reducing trade barriers.",
+      "image": "",
+      "link": "/topStories/7",
+      "date": "2024-07-12"
+    },
+    {
+      "id": 8,
+      "title": "Major Health Campaign Launched to Combat Malaria",
+      "summary": "The Ministry of Health has launched a major campaign to combat malaria, aiming to reduce cases by 50% over the next year.",
+      "image": "",
+      "link": "/topStories/8",
+      "date": "2024-07-13"
+    },
+    {
+      "id": 9,
+      "title": "Eritrean Tech Startups Showcase Innovations at Regional Expo",
+      "summary": "Several Eritrean tech startups showcased their innovations at the regional tech expo, drawing attention from investors and industry leaders.",
+      "image": "",
+      "link": "/topStories/9",
+      "date": "2024-07-14"
+    },
+    {
+      "id": 10,
+      "title": "Asmara Hosts Annual Cultural Festival",
+      "summary": "Asmara's annual cultural festival kicked off today, featuring traditional music, dance, and art from across the country.",
+      "image": "",
+      "link": "/topStories/10",
+      "date": "2024-07-15"
+    },
+    {
+      "id": 11,
+      "title": "Eritrea Strengthens Ties with African Union",
+      "summary": "Eritrea has taken significant steps to strengthen its ties with the African Union, including new collaborative projects and initiatives.",
+      "image": "https://shabait.com/wp-content/uploads/2022/02/shabait469508-56978650987.jpg",
+      "link": "/topStories/11",
+      "date": "2024-07-16"
+    },
+    {
+      "id": 12,
+      "title": "Eritrea’s Journey in its Economic Development",
+      "summary": "Our guest today, Mr. James Wakiaga, UNDP representative to Eritrea, discusses before his departure the economic and social aspects of development that he witnessed during his four-year stay in Eritrea.",
+      "image": "https://shabait.com/wp-content/uploads/2023/06/111111.jpg",
+      "link": "/topStories/12",
+      "date": "2023-06-02"
+    }
+  ],
+  "general": [
+    {
+      "id": 1,
+      "title": "Mai-Habar Technical School’s 24th Graduation",
+      "image": "https://shabait.com/wp-content/uploads/2024/07/shabait895673985.jpg",
+      "date": "2024-07-08",
+      "summary": "Mai-Habar Technical School celebrated its 24th graduation ceremony with 130 students graduating.",
+      "content": [
+        "Last week, staff, students, and the community celebrated Mai-Habar Technical School’s 24th graduation ceremony. A total of 130 students graduated, including 66 females, in seven different fields of study.",
+        "Dekemhare Technical School also held its 20th graduation ceremony, with 103 students graduating, including 48 females.",
+        "Moasho Gebretensae, director general of technical and vocational education and training at the Ministry of Education, noted the government's prioritization of improving TVET facilities. Around 900 students are expected to graduate this year from various technical and vocational institutions across the nation."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Importance of Education in Eritrea",
+      "image": "https://shabait.com/wp-content/uploads/2023/12/SHABAIT-1.jpg",
+      "date": "2024-07-07",
+      "summary": "Education is a fundamental right in Eritrea, key to development and a central pillar of society.",
+      "content": [
+        "Education in Eritrea is regarded as a fundamental right, key to development, and a central pillar of society. The country continues to invest significantly to ensure equitable access to quality education.",
+        "The National Charter, adopted in Nakfa in 1994, declares that education is the foundation of development and a fundamental right for all Eritreans.",
+        "Eritrea is committed to expanding education to rural areas and building an advanced educational system to serve national unity and development."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "TVET in Eritrea",
+      "image": "https://shabait.com/wp-content/uploads/2023/10/shabait8367429576666666666666666.jpg",
+      "date": "2024-07-06",
+      "summary": "Eritrea has established seven TVET institutions offering various programs combining theoretical study and practical training.",
+      "content": [
+        "Eritrea has established seven TVET institutions, with most students enrolling after the tenth grade. Programs are offered in fields like electronics, carpentry, and auto mechanics.",
+        "Since 2015, more than 10,000 students have graduated from TVET institutions, with over 5,000 from Mai-Habar and almost 3,500 from Dekemhare.",
+        "The government is working to widen access to TVET by expanding the capacity of existing institutions, constructing new ones, and facilitating evening courses."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Diplomatic Activities by Diaspora Nationals",
+      "image": "https://shabait.com/wp-content/uploads/2024/07/shabait94567984567.jpg",
+      "date": "2024-05-03",
+      "summary": "The Eritrean community in Basel, Switzerland, conducted their 5th congress on 21 April, while nationals in the US held meetings of national associations.",
+      "content": [
+        "At the congress in Basel, Mr. Habtom Zeray, Chargé d’Affaires at the Eritrean Embassy in Switzerland, and Mr. Tewolde Yohannes, Head of Public and Community Affairs, provided extensive briefings on the current situation in the homeland and the region, as well as on the role of Diaspora nationals in preserving and transferring noble societal values.",
+        "Mr. Amnauel Tekle, chairman of the Eritrean community, reported that the community has conducted encouraging activities, including the establishment of a mother tongue school, the implementation of community and national programs, and the strengthening of unity and organization among nationals."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Elabered Subzone: Weaving Social Services into a Rural Community",
+      "date": "2024-07-06",
+      "image": "https://shabait.com/wp-content/uploads/2024/07/shabait98467395845.jpg",
+      "summary": "Elabered subzone is located along the vital line that connects Keren and Asmara. It is known for its greenery and pioneering modern farming. Farmers in the subzone produce a bountiful supply of fruits, vegetables, and dairy products. The subzone has undergone significant changes since Eritrea’s independence. This transformation has specifically addressed the pressing needs of its population, which depends heavily on agriculture for a living. Undeterred by the terrain dominated by mountains, the communities in Elabered subzone have created a verdant oasis through their unwavering dedication and tireless work ethic.",
+      "content": [
+        "There are approximately 720 hectares of fruit and vegetable farms and 5,500 hectares of seasonal crops’ farms in Elabered subzone. On around 300 hectares of farmland, farmers grow tomatoes, reaping 500-700 quintals from a single hectare. Last summer, farmers in the subzone planted selected barley and wheat seeds that yielded promising results.",
+        "There is substantial evidence that social services play an important role in reducing poverty and boosting people’s overall well-being, and expanding social services in Eritrea’s rural areas holds immense significance for the nation’s overall development. These services, which include education, healthcare and transport, empower rural communities. Through easy access to quality education, the youth in rural areas can gain the skills needed to secure better jobs and contribute immensely to the national economy. Improved healthcare services lead to healthier populations, reducing absenteeism and boosting productivity. Upgraded transportation networks connect rural communities to markets and resources, facilitating trade and fostering economic growth. Furthermore, expanded social services foster a sense of inclusion and belonging within these communities, encouraging them to thrive and contribute to a more prosperous Eritrea."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Eritrea's Journey in Its Economic Development",
+      "date": "2023-06-02",
+      "image": "https://shabait.com/wp-content/uploads/2024/07/shabait98467395845.jpg",
+      "summary": "Eritrea has made significant strides in its economic development through various strategic initiatives and policies.",
+      "content": [
+        "Eritrea has focused on self-reliance and sustainable development, leading to significant progress in various sectors such as agriculture, mining, and infrastructure.",
+        "The government has invested in improving the agricultural sector, which remains a cornerstone of the economy, ensuring food security and export growth.",
+        "Mining has emerged as a vital sector, attracting foreign investments and contributing to the nation's GDP. Key projects include the Bisha Mine, which produces gold, copper, and zinc.",
+        "Infrastructure development, including road networks and energy projects, has been pivotal in supporting economic activities and improving the quality of life for Eritreans."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Advancements in Healthcare Services in Eritrea",
+      "date": "2024-07-01",
+      "image": "https://shabait.com/wp-content/uploads/2024/04/DSC9108.jpg",
+      "summary": "Eritrea has made significant progress in healthcare services, focusing on accessibility and quality for all citizens.",
+      "content": [
+        "The Ministry of Health has been implementing comprehensive healthcare programs to ensure that medical services are accessible to all citizens, particularly in rural areas.",
+        "Improvements in maternal and child healthcare have been a priority, with significant reductions in mortality rates due to better medical facilities and trained healthcare professionals.",
+        "The government has also focused on combating infectious diseases through vaccination programs and public health campaigns, significantly reducing the prevalence of diseases such as malaria and tuberculosis.",
+        "The establishment of new hospitals and clinics across the country has improved the overall healthcare infrastructure, making advanced medical care more accessible."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Technological Innovations in Eritrea",
+      "date": "2024-06-25",
+      "image": "https://shabait.com/wp-content/uploads/2023/09/e403cbf5-3e0e-4db9-a15b-1eaea2c0702f.jpg",
+      "summary": "Eritrea is embracing technological advancements to drive economic growth and improve the quality of life for its citizens.",
+      "content": [
+        "The government has launched several initiatives to promote the use of technology in various sectors, including education, healthcare, and agriculture.",
+        "Digital literacy programs have been introduced to equip the youth with essential skills, enabling them to participate in the global digital economy.",
+        "Innovations in agricultural technology have led to increased productivity and efficiency, benefiting farmers and boosting food security.",
+        "The establishment of tech hubs and innovation centers is fostering a culture of entrepreneurship and innovation among Eritrean youth."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Cultural Festivals and Traditional Events in Eritrea",
+      "date": "2024-06-20",
+      "image": "https://shabait.com/wp-content/uploads/2023/08/shabait0943267985.jpg",
+      "summary": "Eritrea's rich cultural heritage is celebrated through various festivals and traditional events held throughout the year.",
+      "content": [
+        "Eritrea hosts numerous cultural festivals that showcase its diverse traditions, music, dance, and cuisine, bringing together communities and promoting national unity.",
+        "The annual Eritrean Festival, held in Asmara, is a major event that attracts visitors from all over the country and abroad, featuring cultural performances, exhibitions, and food fairs.",
+        "Traditional ceremonies and rituals, such as weddings and harvest festivals, are celebrated with great enthusiasm, reflecting the strong cultural identity of the Eritrean people.",
+        "These cultural events play a vital role in preserving and promoting Eritrea's heritage, fostering a sense of pride and belonging among its citizens."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Environmental Conservation Efforts in Eritrea",
+      "date": "2024-06-15",
+      "image": "https://shabait.com/wp-content/uploads/2024/04/shabait04937860-79856097-3.jpg",
+      "summary": "Eritrea is committed to environmental conservation, implementing various initiatives to protect its natural resources and promote sustainability.",
+      "content": [
+        "The government has launched reforestation programs to combat deforestation and soil erosion, planting millions of trees across the country.",
+        "Efforts to protect wildlife and biodiversity have been intensified, with the establishment of protected areas and wildlife reserves.",
+        "Community-based conservation projects are empowering local communities to participate in environmental protection, promoting sustainable land and resource management practices.",
+        "Renewable energy projects, such as solar and wind power, are being developed to reduce dependence on fossil fuels and promote sustainable energy sources."
+      ]
+    }
+  ]
+}
