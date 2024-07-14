@@ -1,9 +1,9 @@
-import AppLayout from "../AppLayout"
+import AppLayout from '../AppLayout.jsx';
 
-const About = () => {
+const AboutEritrea = () => {
   return (
     <AppLayout />
   )
 }
 
-export default About
+export default AboutEritrea
