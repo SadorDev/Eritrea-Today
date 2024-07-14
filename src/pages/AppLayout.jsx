@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+import { useState } from "react";
+import { Outlet } from "react-router-dom"; 
 import Logo from "../components/Logo";
 import PageNav from "../components/PageNav";
 import styles from "./AppLayout.module.css";
@@ -23,6 +24,7 @@ const AppLayout = () => {
         </div>
       </header>
       <PageNav isSidebarOpen={isSidebarOpen} toggleSidebar={toggleSidebar} />
+        <Outlet /> 
     </main>
   );
 };
