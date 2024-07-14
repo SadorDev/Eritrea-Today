@@ -1,7 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import Homepage from "./pages/Homepage";
-
 import Editorial from "./pages/Editorial";
 import Magazines from "./pages/Magazines";
 import Newspapers from "./pages/Newspapers";
@@ -18,17 +17,16 @@ import HistoryandCulture from "./pages/AboutEritrea/SubPages/HistoryandCulture";
 import Proverbs from "./pages/AboutEritrea/SubPages/Proverbs";
 import TodayInHistory from "./pages/AboutEritrea/SubPages/TodayInHistory";
 
-
-import ContactUs from "./pages/More/SubPages/ContactUs"
-
+import ContactUs from "./pages/More/SubPages/ContactUs";
 import AppLayout from "./pages/AppLayout";
 
+
 const App = () => {
+
   return (
     <BrowserRouter>
       <Routes>
         <Route index element={<Homepage />} />
-
         <Route path="articles" element={<Articles />} />
         <Route path="articles/artsandsports" element={<ArtsandSports />} />
         <Route path="articles/general" element={<General />} />
@@ -36,10 +34,12 @@ const App = () => {
 
         <Route path="abouteritrea" element={<AboutEritrea />} />
         <Route path="abouteritrea/erina" element={<Erina />} />
-        <Route path="abouteritrea/historyandculture" element={<HistoryandCulture />} />
+        <Route path="abouteritrea/historyandculture"
+          element={<HistoryandCulture />}
+        />
         <Route path="abouteritrea/proverbs" element={<Proverbs />} />
-        <Route path="abouteritrea/todayinhistory" element={<TodayInHistory />} />
-
+        <Route path="abouteritrea/todayinhistory" element={<TodayInHistory />}
+        />
 
         <Route path="editorial" element={<Editorial />} />
         <Route path="pressrelease" element={<PressRelease />} />
@@ -48,7 +48,7 @@ const App = () => {
 
         <Route path="more/contactus" element={<ContactUs />} />
 
-        <Route path="app" element={<AppLayout />} />
+        <Route path="/" element={<AppLayout />}></Route>
       </Routes>
     </BrowserRouter>
   );
