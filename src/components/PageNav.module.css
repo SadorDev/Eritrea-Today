@@ -31,11 +31,12 @@
   display: inline-block;
   padding: 0.5rem 1rem;
   position: relative; 
+  cursor: pointer;
 }
 
 /* Hover effect for nav links */
 .navLink:hover {
-  color: #d4af37;
+  color:#222ee0;
 }
 
 /* Arrow styles */
@@ -174,7 +175,7 @@
   }
 }
 
-/* Ensure nav is visible by default on larger screens */
+/* Larger screens */
 @media (min-width: 769px) {
   .nav {
     display: flex;
@@ -204,7 +205,7 @@
   }
 
   .navLink:hover {
-    color: #d4af37;
+    color: #222ee0;
   }
 
   .dropdown {
